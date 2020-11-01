@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="145" failures="0" name="TestRunners.TestRunner" time="0.124" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
+    <property name="java.vm.version" value="25.202-b08"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\jpmapiassessment\apiserviceautomation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\jpmapiassessment\apiserviceautomation"/>
+    <property name="java.runtime.version" value="1.8.0_202-b08"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Welcome\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\Welcome\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6096761890320468794.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_202\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_202/bin/server;C:/Program Files/Java/jre1.8.0_202/bin;C:/Program Files/Java/jre1.8.0_202/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\bin\;C:\Program Files\apache-maven-3.6.3\bin;%ANDROID_HOME%\tools;%ANDROID_HOME%\tools\platform-tools;%ANDROID_HOME%\tools\bin;;C:\Program Files (x86)\AOMEI Backupper;C:\Users\Welcome\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Welcome\AppData\Local\Programs\Python\Python38-32\;C:\Users\Welcome\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-13.0.1\bin;C:\Users\Welcome\AppData\Roaming\npm;C:\Users\Welcome\AppData\Local\Android\Sdk\platform-tools;C:\Users\Welcome\AppData\Local\Android\Sdk\tools\bin;C:\Users\Welcome\AppData\Local\Android\Sdk\tools;;C:\WINDOWS\system32;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Welcome"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Welcome"/>
+    <property name="java.class.path" value="C:\Users\Welcome\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.14.0.20191209-1923\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_202\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean compile install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_202"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\jpmapiassessment\apiserviceautomation\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="| posts | Get | userId | 1 | 200 | 10 |" name="Given Setup the URI using given endpoint &quot;posts&quot;" time="0.004"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 | 10 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;userId&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 | 10 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 | 10 |" name="And Validate the record counts matches as per expected counts &quot;10&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 | 10 |" name="And Validate the service returned required details for given parameters &quot;userId&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 | 10 |" name="| posts | Get | userId | 1 | 200 | 10 |" time="0.009"/>
+  <testcase classname="| posts | Get | id | 1 | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;posts&quot;" time="0"/>
+  <testcase classname="| posts | Get | id | 1 | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;id&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| posts | Get | id | 1 | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| posts | Get | id | 1 | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| posts | Get | id | 1 | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;id&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| posts | Get | id | 1 | 200 | 1 |" name="| posts | Get | id | 1 | 200 | 1 |" time="0.004"/>
+  <testcase classname="| posts | Get | title | qui est esse | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;posts&quot;" time="0"/>
+  <testcase classname="| posts | Get | title | qui est esse | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;title&quot; &quot;qui est esse&quot;" time="0"/>
+  <testcase classname="| posts | Get | title | qui est esse | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| posts | Get | title | qui est esse | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| posts | Get | title | qui est esse | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;title&quot; &quot;qui est esse&quot;" time="0"/>
+  <testcase classname="| posts | Get | title | qui est esse | 200 | 1 |" name="| posts | Get | title | qui est esse | 200 | 1 |" time="0.004"/>
+  <testcase classname="| comments | Get | postId | 2 | 200 | 5 |" name="Given Setup the URI using given endpoint &quot;comments&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 2 | 200 | 5 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;postId&quot; &quot;2&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 2 | 200 | 5 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 2 | 200 | 5 |" name="And Validate the record counts matches as per expected counts &quot;5&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 2 | 200 | 5 |" name="And Validate the service returned required details for given parameters &quot;postId&quot; &quot;2&quot;" time="0.012"/>
+  <testcase classname="| comments | Get | postId | 2 | 200 | 5 |" name="| comments | Get | postId | 2 | 200 | 5 |" time="0.013"/>
+  <testcase classname="| comments | Get | id | 6 | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;comments&quot;" time="0"/>
+  <testcase classname="| comments | Get | id | 6 | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;id&quot; &quot;6&quot;" time="0"/>
+  <testcase classname="| comments | Get | id | 6 | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0.001"/>
+  <testcase classname="| comments | Get | id | 6 | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| comments | Get | id | 6 | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;id&quot; &quot;6&quot;" time="0"/>
+  <testcase classname="| comments | Get | id | 6 | 200 | 1 |" name="| comments | Get | id | 6 | 200 | 1 |" time="0.001"/>
+  <testcase classname="| comments | Get | name | et omnis dolorem | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;comments&quot;" time="0"/>
+  <testcase classname="| comments | Get | name | et omnis dolorem | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;name&quot; &quot;et omnis dolorem&quot;" time="0"/>
+  <testcase classname="| comments | Get | name | et omnis dolorem | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| comments | Get | name | et omnis dolorem | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| comments | Get | name | et omnis dolorem | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;name&quot; &quot;et omnis dolorem&quot;" time="0"/>
+  <testcase classname="| comments | Get | name | et omnis dolorem | 200 | 1 |" name="| comments | Get | name | et omnis dolorem | 200 | 1 |" time="0.001"/>
+  <testcase classname="| comments | Get | email | Mallory_Kunze@marie.org | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;comments&quot;" time="0"/>
+  <testcase classname="| comments | Get | email | Mallory_Kunze@marie.org | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;email&quot; &quot;Mallory_Kunze@marie.org&quot;" time="0"/>
+  <testcase classname="| comments | Get | email | Mallory_Kunze@marie.org | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| comments | Get | email | Mallory_Kunze@marie.org | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| comments | Get | email | Mallory_Kunze@marie.org | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;email&quot; &quot;Mallory_Kunze@marie.org&quot;" time="0"/>
+  <testcase classname="| comments | Get | email | Mallory_Kunze@marie.org | 200 | 1 |" name="| comments | Get | email | Mallory_Kunze@marie.org | 200 | 1 |" time="0.003"/>
+  <testcase classname="| users | Get | id | 1 | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0.001"/>
+  <testcase classname="| users | Get | id | 1 | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;id&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| users | Get | id | 1 | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| users | Get | id | 1 | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| users | Get | id | 1 | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;id&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| users | Get | id | 1 | 200 | 1 |" name="| users | Get | id | 1 | 200 | 1 |" time="0.001"/>
+  <testcase classname="| users | Get | name | Leanne Graham | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0"/>
+  <testcase classname="| users | Get | name | Leanne Graham | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;name&quot; &quot;Leanne Graham&quot;" time="0"/>
+  <testcase classname="| users | Get | name | Leanne Graham | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| users | Get | name | Leanne Graham | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| users | Get | name | Leanne Graham | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;name&quot; &quot;Leanne Graham&quot;" time="0"/>
+  <testcase classname="| users | Get | name | Leanne Graham | 200 | 1 |" name="| users | Get | name | Leanne Graham | 200 | 1 |" time="0"/>
+  <testcase classname="| users | Get | username | Bret | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0"/>
+  <testcase classname="| users | Get | username | Bret | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;username&quot; &quot;Bret&quot;" time="0"/>
+  <testcase classname="| users | Get | username | Bret | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| users | Get | username | Bret | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| users | Get | username | Bret | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;username&quot; &quot;Bret&quot;" time="0"/>
+  <testcase classname="| users | Get | username | Bret | 200 | 1 |" name="| users | Get | username | Bret | 200 | 1 |" time="0.004"/>
+  <testcase classname="| users | Get | email | Sincere@april.biz | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0"/>
+  <testcase classname="| users | Get | email | Sincere@april.biz | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;email&quot; &quot;Sincere@april.biz&quot;" time="0"/>
+  <testcase classname="| users | Get | email | Sincere@april.biz | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0.002"/>
+  <testcase classname="| users | Get | email | Sincere@april.biz | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0.001"/>
+  <testcase classname="| users | Get | email | Sincere@april.biz | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;email&quot; &quot;Sincere@april.biz&quot;" time="0"/>
+  <testcase classname="| users | Get | email | Sincere@april.biz | 200 | 1 |" name="| users | Get | email | Sincere@april.biz | 200 | 1 |" time="0.004"/>
+  <testcase classname="| users | Get | phone | 024-648-3804 | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0"/>
+  <testcase classname="| users | Get | phone | 024-648-3804 | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;phone&quot; &quot;024-648-3804&quot;" time="0.001"/>
+  <testcase classname="| users | Get | phone | 024-648-3804 | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| users | Get | phone | 024-648-3804 | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| users | Get | phone | 024-648-3804 | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;phone&quot; &quot;024-648-3804&quot;" time="0"/>
+  <testcase classname="| users | Get | phone | 024-648-3804 | 200 | 1 |" name="| users | Get | phone | 024-648-3804 | 200 | 1 |" time="0.004"/>
+  <testcase classname="| posts | Get | userId | 104 | 200 | 0 |" name="Given Setup the URI using given endpoint &quot;posts&quot;" time="0.001"/>
+  <testcase classname="| posts | Get | userId | 104 | 200 | 0 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;userId&quot; &quot;104&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 104 | 200 | 0 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 104 | 200 | 0 |" name="And Validate the record counts matches as per expected counts &quot;0&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 104 | 200 | 0 |" name="And Validate the service returned required details for given parameters &quot;userId&quot; &quot;104&quot;" time="0.001"/>
+  <testcase classname="| posts | Get | userId | 104 | 200 | 0 |" name="| posts | Get | userId | 104 | 200 | 0 |" time="0.004"/>
+  <testcase classname="| comments | Get | postId | 498 | 200 | 0 |" name="Given Setup the URI using given endpoint &quot;comments&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 498 | 200 | 0 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;postId&quot; &quot;498&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 498 | 200 | 0 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 498 | 200 | 0 |" name="And Validate the record counts matches as per expected counts &quot;0&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 498 | 200 | 0 |" name="And Validate the service returned required details for given parameters &quot;postId&quot; &quot;498&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId | 498 | 200 | 0 |" name="| comments | Get | postId | 498 | 200 | 0 |" time="0.004"/>
+  <testcase classname="| users | Get | email | xyz@pqr.com | 200 | 0 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0"/>
+  <testcase classname="| users | Get | email | xyz@pqr.com | 200 | 0 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;email&quot; &quot;xyz@pqr.com&quot;" time="0"/>
+  <testcase classname="| users | Get | email | xyz@pqr.com | 200 | 0 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| users | Get | email | xyz@pqr.com | 200 | 0 |" name="And Validate the record counts matches as per expected counts &quot;0&quot;" time="0"/>
+  <testcase classname="| users | Get | email | xyz@pqr.com | 200 | 0 |" name="And Validate the service returned required details for given parameters &quot;email&quot; &quot;xyz@pqr.com&quot;" time="0"/>
+  <testcase classname="| users | Get | email | xyz@pqr.com | 200 | 0 |" name="| users | Get | email | xyz@pqr.com | 200 | 0 |" time="0.007"/>
+  <testcase classname="| posts | Get | NA | NA | 200 | 100 |" name="Given Setup the URI using given endpoint &quot;posts&quot;" time="0"/>
+  <testcase classname="| posts | Get | NA | NA | 200 | 100 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;NA&quot; &quot;NA&quot;" time="0"/>
+  <testcase classname="| posts | Get | NA | NA | 200 | 100 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| posts | Get | NA | NA | 200 | 100 |" name="And Validate the record counts matches as per expected counts &quot;100&quot;" time="0"/>
+  <testcase classname="| posts | Get | NA | NA | 200 | 100 |" name="And Validate the service returned required details for given parameters &quot;NA&quot; &quot;NA&quot;" time="0"/>
+  <testcase classname="| posts | Get | NA | NA | 200 | 100 |" name="| posts | Get | NA | NA | 200 | 100 |" time="0.009"/>
+  <testcase classname="| comments | Get | NA | NA | 200 | 500 |" name="Given Setup the URI using given endpoint &quot;comments&quot;" time="0"/>
+  <testcase classname="| comments | Get | NA | NA | 200 | 500 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;NA&quot; &quot;NA&quot;" time="0"/>
+  <testcase classname="| comments | Get | NA | NA | 200 | 500 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| comments | Get | NA | NA | 200 | 500 |" name="And Validate the record counts matches as per expected counts &quot;500&quot;" time="0.001"/>
+  <testcase classname="| comments | Get | NA | NA | 200 | 500 |" name="And Validate the service returned required details for given parameters &quot;NA&quot; &quot;NA&quot;" time="0"/>
+  <testcase classname="| comments | Get | NA | NA | 200 | 500 |" name="| comments | Get | NA | NA | 200 | 500 |" time="0.002"/>
+  <testcase classname="| users | Get | NA | NA | 200 | 10 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0"/>
+  <testcase classname="| users | Get | NA | NA | 200 | 10 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;NA&quot; &quot;NA&quot;" time="0.001"/>
+  <testcase classname="| users | Get | NA | NA | 200 | 10 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| users | Get | NA | NA | 200 | 10 |" name="And Validate the record counts matches as per expected counts &quot;10&quot;" time="0"/>
+  <testcase classname="| users | Get | NA | NA | 200 | 10 |" name="And Validate the service returned required details for given parameters &quot;NA&quot; &quot;NA&quot;" time="0"/>
+  <testcase classname="| users | Get | NA | NA | 200 | 10 |" name="| users | Get | NA | NA | 200 | 10 |" time="0.003"/>
+  <testcase classname="| posts | Get | userId:title | 1:qui est esse | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;posts&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId:title | 1:qui est esse | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;userId:title&quot; &quot;1:qui est esse&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId:title | 1:qui est esse | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId:title | 1:qui est esse | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0.001"/>
+  <testcase classname="| posts | Get | userId:title | 1:qui est esse | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;userId:title&quot; &quot;1:qui est esse&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId:title | 1:qui est esse | 200 | 1 |" name="| posts | Get | userId:title | 1:qui est esse | 200 | 1 |" time="0.001"/>
+  <testcase classname="| comments | Get | postId:id | 2:6 | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;comments&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId:id | 2:6 | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;postId:id&quot; &quot;2:6&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId:id | 2:6 | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId:id | 2:6 | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId:id | 2:6 | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;postId:id&quot; &quot;2:6&quot;" time="0"/>
+  <testcase classname="| comments | Get | postId:id | 2:6 | 200 | 1 |" name="| comments | Get | postId:id | 2:6 | 200 | 1 |" time="0.003"/>
+  <testcase classname="| users | Get | id:name | 1:Leanne Graham | 200 | 1 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0.001"/>
+  <testcase classname="| users | Get | id:name | 1:Leanne Graham | 200 | 1 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;id:name&quot; &quot;1:Leanne Graham&quot;" time="0"/>
+  <testcase classname="| users | Get | id:name | 1:Leanne Graham | 200 | 1 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| users | Get | id:name | 1:Leanne Graham | 200 | 1 |" name="And Validate the record counts matches as per expected counts &quot;1&quot;" time="0"/>
+  <testcase classname="| users | Get | id:name | 1:Leanne Graham | 200 | 1 |" name="And Validate the service returned required details for given parameters &quot;id:name&quot; &quot;1:Leanne Graham&quot;" time="0.001"/>
+  <testcase classname="| users | Get | id:name | 1:Leanne Graham | 200 | 1 |" name="| users | Get | id:name | 1:Leanne Graham | 200 | 1 |" time="0.003"/>
+  <testcase classname="| test | Get | NA | NA | 404 |" name="Given Setup the URI using given endpoint &quot;test&quot;" time="0.001"/>
+  <testcase classname="| test | Get | NA | NA | 404 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;NA&quot; &quot;NA&quot;" time="0"/>
+  <testcase classname="| test | Get | NA | NA | 404 |" name="Then Validate the service returns given response code &quot;404&quot;" time="0"/>
+  <testcase classname="| test | Get | NA | NA | 404 |" name="| test | Get | NA | NA | 404 |" time="0.003"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 |" name="Given Setup the URI using given endpoint &quot;posts&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;userId&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 |" name="And Validate the given attributes are present in response appropriately" time="0"/>
+  <testcase classname="| posts | Get | userId | 1 | 200 |" name="| posts | Get | userId | 1 | 200 |" time="0.004"/>
+  <testcase classname="| comments | Get | userId | 1 | 200 |" name="Given Setup the URI using given endpoint &quot;comments&quot;" time="0"/>
+  <testcase classname="| comments | Get | userId | 1 | 200 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;userId&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| comments | Get | userId | 1 | 200 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0"/>
+  <testcase classname="| comments | Get | userId | 1 | 200 |" name="And Validate the given attributes are present in response appropriately" time="0"/>
+  <testcase classname="| comments | Get | userId | 1 | 200 |" name="| comments | Get | userId | 1 | 200 |" time="0"/>
+  <testcase classname="| users | Get | userId | 1 | 200 |" name="Given Setup the URI using given endpoint &quot;users&quot;" time="0"/>
+  <testcase classname="| users | Get | userId | 1 | 200 |" name="When Run the RestFul service using given inputs &quot;Get&quot; &quot;userId&quot; &quot;1&quot;" time="0"/>
+  <testcase classname="| users | Get | userId | 1 | 200 |" name="Then Validate the service returns given response code &quot;200&quot;" time="0.001"/>
+  <testcase classname="| users | Get | userId | 1 | 200 |" name="And Validate the given attributes are present in response appropriately" time="0"/>
+  <testcase classname="| users | Get | userId | 1 | 200 |" name="| users | Get | userId | 1 | 200 |" time="0.002"/>
+</testsuite>

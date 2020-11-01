@@ -1,0 +1,247 @@
+2020-11-01 17:46:02,051  INFO [main] root:26 - Started API Test Execution >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:02,088  INFO [main] root:17 - Executing the scenario : Validate that "posts" service is up and running and returns appropriate details for "userId" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:02,238  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:02,239  INFO [main] root:23 - Value for given key posts is /posts
+2020-11-01 17:46:02,240  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/posts >>>>
+2020-11-01 17:46:05,272  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/posts ran successfully>>>>
+2020-11-01 17:46:05,293  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:05,475  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:05,509  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:05,515  INFO [main] root:22 - Executed the Scenario successfully : Validate that "posts" service is up and running and returns appropriate details for "userId" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:05,516  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:05,520  INFO [main] root:17 - Executing the scenario : Validate that "posts" service is up and running and returns appropriate details for "id" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:05,524  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:05,525  INFO [main] root:23 - Value for given key posts is /posts
+2020-11-01 17:46:05,525  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/posts >>>>
+2020-11-01 17:46:05,827  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/posts ran successfully>>>>
+2020-11-01 17:46:05,830  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:05,881  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:05,883  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:05,885  INFO [main] root:22 - Executed the Scenario successfully : Validate that "posts" service is up and running and returns appropriate details for "id" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:05,885  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:05,886  INFO [main] root:17 - Executing the scenario : Validate that "posts" service is up and running and returns appropriate details for "title" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:05,891  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:05,892  INFO [main] root:23 - Value for given key posts is /posts
+2020-11-01 17:46:05,892  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/posts >>>>
+2020-11-01 17:46:06,195  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/posts ran successfully>>>>
+2020-11-01 17:46:06,196  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:06,199  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:06,201  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:06,202  INFO [main] root:22 - Executed the Scenario successfully : Validate that "posts" service is up and running and returns appropriate details for "title" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:06,202  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:06,203  INFO [main] root:17 - Executing the scenario : Validate that "comments" service is up and running and returns appropriate details for "postId" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:06,208  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:06,208  INFO [main] root:23 - Value for given key comments is /comments
+2020-11-01 17:46:06,209  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/comments >>>>
+2020-11-01 17:46:06,526  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/comments ran successfully>>>>
+2020-11-01 17:46:06,528  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:06,531  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:06,533  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:06,535  INFO [main] root:22 - Executed the Scenario successfully : Validate that "comments" service is up and running and returns appropriate details for "postId" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:06,535  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:06,536  INFO [main] root:17 - Executing the scenario : Validate that "comments" service is up and running and returns appropriate details for "id" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:06,540  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:06,541  INFO [main] root:23 - Value for given key comments is /comments
+2020-11-01 17:46:06,541  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/comments >>>>
+2020-11-01 17:46:06,878  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/comments ran successfully>>>>
+2020-11-01 17:46:06,880  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:06,882  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:06,885  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:06,886  INFO [main] root:22 - Executed the Scenario successfully : Validate that "comments" service is up and running and returns appropriate details for "id" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:06,886  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:06,888  INFO [main] root:17 - Executing the scenario : Validate that "comments" service is up and running and returns appropriate details for "name" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:06,891  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:06,891  INFO [main] root:23 - Value for given key comments is /comments
+2020-11-01 17:46:06,892  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/comments >>>>
+2020-11-01 17:46:07,157  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/comments ran successfully>>>>
+2020-11-01 17:46:07,159  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:07,161  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:07,163  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:07,164  INFO [main] root:22 - Executed the Scenario successfully : Validate that "comments" service is up and running and returns appropriate details for "name" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:07,164  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:07,165  INFO [main] root:17 - Executing the scenario : Validate that "comments" service is up and running and returns appropriate details for "email" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:07,168  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:07,169  INFO [main] root:23 - Value for given key comments is /comments
+2020-11-01 17:46:07,169  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/comments >>>>
+2020-11-01 17:46:07,483  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/comments ran successfully>>>>
+2020-11-01 17:46:07,485  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:07,487  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:07,489  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:07,490  INFO [main] root:22 - Executed the Scenario successfully : Validate that "comments" service is up and running and returns appropriate details for "email" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:07,490  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:07,491  INFO [main] root:17 - Executing the scenario : Validate that "users" service is up and running and returns appropriate details for "id" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:07,494  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:07,495  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:07,495  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:07,761  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:07,763  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:07,766  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:07,768  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:07,769  INFO [main] root:22 - Executed the Scenario successfully : Validate that "users" service is up and running and returns appropriate details for "id" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:07,770  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:07,771  INFO [main] root:17 - Executing the scenario : Validate that "users" service is up and running and returns appropriate details for "name" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:07,774  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:07,775  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:07,775  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:08,022  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:08,024  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:08,027  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:08,028  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:08,030  INFO [main] root:22 - Executed the Scenario successfully : Validate that "users" service is up and running and returns appropriate details for "name" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:08,030  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:08,031  INFO [main] root:17 - Executing the scenario : Validate that "users" service is up and running and returns appropriate details for "username" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:08,034  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:08,034  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:08,035  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:08,335  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:08,338  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:08,344  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:08,349  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:08,352  INFO [main] root:22 - Executed the Scenario successfully : Validate that "users" service is up and running and returns appropriate details for "username" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:08,353  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:08,356  INFO [main] root:17 - Executing the scenario : Validate that "users" service is up and running and returns appropriate details for "email" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:08,363  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:08,366  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:08,367  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:08,690  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:08,694  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:08,701  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:08,707  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:08,709  INFO [main] root:22 - Executed the Scenario successfully : Validate that "users" service is up and running and returns appropriate details for "email" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:08,711  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:08,713  INFO [main] root:17 - Executing the scenario : Validate that "users" service is up and running and returns appropriate details for "phone" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:08,721  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:08,722  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:08,723  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:09,022  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:09,026  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:09,031  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:09,035  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:09,038  INFO [main] root:22 - Executed the Scenario successfully : Validate that "users" service is up and running and returns appropriate details for "phone" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:09,039  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:09,042  INFO [main] root:17 - Executing the scenario : Validate that "posts" service is up and running and returns appropriate details for "userId" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:09,050  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:09,052  INFO [main] root:23 - Value for given key posts is /posts
+2020-11-01 17:46:09,053  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/posts >>>>
+2020-11-01 17:46:09,348  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/posts ran successfully>>>>
+2020-11-01 17:46:09,352  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:09,355  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:09,359  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:09,361  INFO [main] root:22 - Executed the Scenario successfully : Validate that "posts" service is up and running and returns appropriate details for "userId" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:09,362  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:09,364  INFO [main] root:17 - Executing the scenario : Validate that "comments" service is up and running and returns appropriate details for "postId" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:09,370  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:09,371  INFO [main] root:23 - Value for given key comments is /comments
+2020-11-01 17:46:09,372  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/comments >>>>
+2020-11-01 17:46:09,681  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/comments ran successfully>>>>
+2020-11-01 17:46:09,685  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:09,689  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:09,693  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:09,696  INFO [main] root:22 - Executed the Scenario successfully : Validate that "comments" service is up and running and returns appropriate details for "postId" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:09,697  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:09,700  INFO [main] root:17 - Executing the scenario : Validate that "users" service is up and running and returns appropriate details for "email" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:09,705  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:09,706  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:09,707  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:10,022  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:10,026  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:10,032  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:10,037  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:10,040  INFO [main] root:22 - Executed the Scenario successfully : Validate that "users" service is up and running and returns appropriate details for "email" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:10,041  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:10,046  INFO [main] root:17 - Executing the scenario : Validate that "posts" service is up and running and returns appropriate details for "NA" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:10,054  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:10,055  INFO [main] root:23 - Value for given key posts is /posts
+2020-11-01 17:46:10,056  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/posts >>>>
+2020-11-01 17:46:10,397  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/posts ran successfully>>>>
+2020-11-01 17:46:10,400  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:10,419  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:10,424  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:10,428  INFO [main] root:22 - Executed the Scenario successfully : Validate that "posts" service is up and running and returns appropriate details for "NA" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:10,429  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:10,434  INFO [main] root:17 - Executing the scenario : Validate that "comments" service is up and running and returns appropriate details for "NA" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:10,441  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:10,442  INFO [main] root:23 - Value for given key comments is /comments
+2020-11-01 17:46:10,443  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/comments >>>>
+2020-11-01 17:46:10,765  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/comments ran successfully>>>>
+2020-11-01 17:46:10,770  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:10,811  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:10,814  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:10,816  INFO [main] root:22 - Executed the Scenario successfully : Validate that "comments" service is up and running and returns appropriate details for "NA" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:10,817  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:10,819  INFO [main] root:17 - Executing the scenario : Validate that "users" service is up and running and returns appropriate details for "NA" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:10,823  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:10,824  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:10,825  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:11,116  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:11,118  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:11,123  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:11,125  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:11,127  INFO [main] root:22 - Executed the Scenario successfully : Validate that "users" service is up and running and returns appropriate details for "NA" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:11,128  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:11,130  INFO [main] root:17 - Executing the scenario : Validate that "posts" service is up and running and returns appropriate details for "userId:title" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:11,135  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:11,136  INFO [main] root:23 - Value for given key posts is /posts
+2020-11-01 17:46:11,137  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/posts >>>>
+2020-11-01 17:46:11,441  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/posts ran successfully>>>>
+2020-11-01 17:46:11,444  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:11,448  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:11,452  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:11,454  INFO [main] root:22 - Executed the Scenario successfully : Validate that "posts" service is up and running and returns appropriate details for "userId:title" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:11,455  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:11,457  INFO [main] root:17 - Executing the scenario : Validate that "comments" service is up and running and returns appropriate details for "postId:id" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:11,464  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:11,465  INFO [main] root:23 - Value for given key comments is /comments
+2020-11-01 17:46:11,466  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/comments >>>>
+2020-11-01 17:46:11,765  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/comments ran successfully>>>>
+2020-11-01 17:46:11,769  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:11,774  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:11,778  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:11,780  INFO [main] root:22 - Executed the Scenario successfully : Validate that "comments" service is up and running and returns appropriate details for "postId:id" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:11,781  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:11,783  INFO [main] root:17 - Executing the scenario : Validate that "users" service is up and running and returns appropriate details for "id:name" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:11,788  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:11,789  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:11,790  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:12,074  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:12,077  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:12,081  INFO [main] root:53 - Objects counts are matching as expected>>>>
+2020-11-01 17:46:12,084  INFO [main] root:77 - Response validation is completed successfully>>>>
+2020-11-01 17:46:12,086  INFO [main] root:22 - Executed the Scenario successfully : Validate that "users" service is up and running and returns appropriate details for "id:name" parameter/s >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:12,087  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:12,092  INFO [main] root:17 - Executing the scenario : Validate when service with invalid endpoint or resources will not run successfully and returns failed response code >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:12,097  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:12,098  INFO [main] root:23 - Value for given key test is /test
+2020-11-01 17:46:12,099  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/test >>>>
+2020-11-01 17:46:12,392  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/test ran successfully>>>>
+2020-11-01 17:46:12,395  INFO [main] root:46 - Service returned response code 404 >>>>
+2020-11-01 17:46:12,398  INFO [main] root:22 - Executed the Scenario successfully : Validate when service with invalid endpoint or resources will not run successfully and returns failed response code >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:12,399  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:12,404  INFO [main] root:17 - Executing the scenario : Validate the given attributes present in json response for posts service >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:12,408  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:12,409  INFO [main] root:23 - Value for given key posts is /posts
+2020-11-01 17:46:12,410  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/posts >>>>
+2020-11-01 17:46:12,693  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/posts ran successfully>>>>
+2020-11-01 17:46:12,696  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:12,704  INFO [main] root:88 - Given attributes are present in response appropriately>>>>
+2020-11-01 17:46:12,706  INFO [main] root:22 - Executed the Scenario successfully : Validate the given attributes present in json response for posts service >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:12,707  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:12,713  INFO [main] root:17 - Executing the scenario : Validate the give  attributes present in json response for posts service >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:12,719  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:12,720  INFO [main] root:23 - Value for given key comments is /comments
+2020-11-01 17:46:12,721  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/comments >>>>
+2020-11-01 17:46:13,004  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/comments ran successfully>>>>
+2020-11-01 17:46:13,007  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:13,041  INFO [main] root:88 - Given attributes are present in response appropriately>>>>
+2020-11-01 17:46:13,044  INFO [main] root:22 - Executed the Scenario successfully : Validate the give  attributes present in json response for posts service >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:13,045  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:13,052  INFO [main] root:17 - Executing the scenario : Validate the give  attributes present in json response for users service >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:13,056  INFO [main] root:23 - Value for given key url is https://jsonplaceholder.typicode.com
+2020-11-01 17:46:13,072  INFO [main] root:23 - Value for given key users is /users
+2020-11-01 17:46:13,075  INFO [main] root:32 - URI is https://jsonplaceholder.typicode.com/users >>>>
+2020-11-01 17:46:13,334  INFO [main] root:40 - API Service https://jsonplaceholder.typicode.com/users ran successfully>>>>
+2020-11-01 17:46:13,337  INFO [main] root:46 - Service returned response code 200 >>>>
+2020-11-01 17:46:13,339  INFO [main] root:88 - Given attributes are present in response appropriately>>>>
+2020-11-01 17:46:13,340  INFO [main] root:22 - Executed the Scenario successfully : Validate the give  attributes present in json response for users service >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-11-01 17:46:13,341  INFO [main] root:23 - ----------------------------------------------------------------------
+2020-11-01 17:46:13,342  INFO [main] root:32 - Completed API Test Execution >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
